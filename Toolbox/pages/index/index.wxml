@@ -1,0 +1,32 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="header">
+    <image src='../../images/banner.jpg'></image>
+  </view>
+  <view class="recommend">
+    <view class="item">
+      <image src='../../images/yearbook.png'></image>
+      <text>表情制作</text>
+    </view>
+    <view class="item">
+      <image src='../../images/studies.png'></image>
+      <text>翻译</text>
+    </view>
+    <view class="item" style="border-right:none;">
+      <image src='../../images/set_square.png'></image>
+      <text>汇率转换</text>
+    </view>
+    <view class="item">
+      <image src='../../images/school_bus.png'></image>
+      <text>物流查询</text>
+    </view>
+    <view class="item">
+      <image src='../../images/pencil.png'></image>
+      <text>尺子</text>
+    </view>
+    <view class="item" style="border-right:none;">
+      <image src='../../images/orientation.png'></image>
+      <text>指南针</text>
+    </view>
+  </view>
+</view>
